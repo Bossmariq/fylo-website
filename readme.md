@@ -29,7 +29,7 @@ Productive Section: An image and a descriptive content and a link, they stack on
 
 Testimonials: This section is made up of three boxes, and each box contains a description and image (small in size and rounded). These boxes are stacked on small screens but are in a row on larger screens
 
-Early Access Section: This section contains description and thn the input & button.
+Early Access Section: This section contains description and then the input & button.
 
 Footer: contains the logo, menus and social media icons
 
